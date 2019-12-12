@@ -4,6 +4,7 @@ Sold By: [Bones Coffee](https://www.bonescoffee.com/products/oh-fuuudge-12oz)
 Seasonal? Yes; Christmas
 
 ## Recipe
+  * Mason jar: 1qt (32oz)
   * Coffee: 0.25c (2oz)
   * Water: 3.5c (28oz)
   * Time: 12 hours
