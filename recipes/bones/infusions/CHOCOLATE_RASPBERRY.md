@@ -4,7 +4,6 @@ Sold By: [Bones Coffee](https://www.bonescoffee.com/products/bones-coffee-compan
 Seasonal? Yes; Depends on raspberry availability, though the coffee is not seasonal
 
 ## Recipe
-  * Mason jar: 1qt (32oz)
   * Coffee: 0.25c (2oz)
   * Water: 3.0c (24oz)
   * Fresh Raspberries: 0.5c (4oz) [About 18 raspberries]
