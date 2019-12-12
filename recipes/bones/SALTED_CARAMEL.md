@@ -1,5 +1,6 @@
 # Salted Caramel
 Sold By: [Bones Coffee](https://www.bonescoffee.com/products/bones-coffee-company-salted-caramel-coffee)
+Seasonal? No
 
 ## Recipe
   * Coffee: 0.25c (2oz)
