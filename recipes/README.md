@@ -11,6 +11,6 @@ I use a measuring cup for all the measures provided. That way, there is no misun
     * [Salted Caramel](https://github.umn.edu/cdsmith/cold-brew-coffee/blob/master/recipes/bones/SALTED_CARAMEL.md)
     * [White Chocolate Peppermint Bark](https://github.umn.edu/cdsmith/cold-brew-coffee/blob/master/recipes/bones/WHITE_CHOCOLATE_PEPPERMINT_BARK.md)
   
-  ### Infusions
-    * Company: Bones Coffee
-      * [Chocolate Raspberry](https://github.umn.edu/cdsmith/cold-brew-coffee/blob/master/recipes/bones/infusions/CHOCOLATE_RASPBERRY.md)
+### Infusions
+  * Company: Bones Coffee
+    * [Chocolate Raspberry](https://github.umn.edu/cdsmith/cold-brew-coffee/blob/master/recipes/bones/infusions/CHOCOLATE_RASPBERRY.md)
