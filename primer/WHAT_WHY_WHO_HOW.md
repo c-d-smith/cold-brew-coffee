@@ -11,3 +11,5 @@ Many of the people interested in cold brewing are people who have never develope
 
 ## How Do You Cold Brew?
 At the most basic level, you need a jar, the ability to filter the grounds, time, and patience. Cold brewing doesn't require any attention from you between starting and ending the process. Temperature affects how quickly or slowly extraction occurs, and you can use that to fit your brewing in around the rest of your activities.
+
+[<-- Back to Primer](https://github.umn.edu/cdsmith/cold-brew-coffee/blob/master/primer/README.md)
