@@ -45,3 +45,5 @@ Cheesecloth and nut milk bags hold the grounds in the Mason jar while you're bre
 During my research, the most frequent ratio I found was four cups water to one cup coffee grounds. However, I don't think that many literal measuring cups' worth is actually meant because, when I tried that ratio, the coffee I brewed was so strong that if I drank more than 0.25c (2oz) of it per day, then I would spend most of the night awake. That said, in the recipes I'm sharing, I do actually measure everything out with a measuring cup.
 
 I've had to ignore the information I found online and find a ratio that works for me. My recipes are a good starting point, and you may need to tweak them to suit yourself. Finally, obviously, if you change the ratio, you make the coffee stronger or weaker.
+
+[Back to Primer](https://github.umn.edu/cdsmith/cold-brew-coffee/blob/master/primer/README.md)
