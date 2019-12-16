@@ -14,3 +14,5 @@ This coffee has a strong flavor, making it tolerant of over-brewing. The suggest
 I have only brewed this infusion at 15 hours. You can vary the flavor by steeping the raspberries in water for a few hours before adding the coffee, as well as varying the brewing time once the coffee is added. The addition of the raspberries may help mask the bitterness of longer brewing times, though I haven't tried this yet. Since raspberries are naturally tart, you need not worry about the coffee becoming very sweet while brewing.
 
 As an added bonus, the raspberries remain intact after 15 hours submerged in water. Once removed, if you take the time to rinse the grounds off them, they are still edible and quite tasty.
+
+[Back to Recipes](https://github.umn.edu/cdsmith/cold-brew-coffee/blob/master/recipes/README.md)
