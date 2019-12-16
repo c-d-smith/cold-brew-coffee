@@ -8,3 +8,5 @@ Unfortunately, all of this means that if a recipe for a flavor you want doesn't 
 ## Recipes
 Here is the [comprehensive list of recipes](https://github.umn.edu/cdsmith/cold-brew-coffee/tree/master/recipes). Here are the infusion recipes:
   * [Chocolate Raspberry](https://github.umn.edu/cdsmith/cold-brew-coffee/blob/master/recipes/bones/infusions/CHOCOLATE_RASPBERRY.md)
+
+[Back to Primer](https://github.umn.edu/cdsmith/cold-brew-coffee/blob/master/primer/README.md)
