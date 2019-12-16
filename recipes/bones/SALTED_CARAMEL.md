@@ -11,3 +11,5 @@ Seasonal? No
 This coffee has a strong flavor, making it tolerant of over-brewing. The suggested brewing time produces a honey-colored coffee with little bitterness and an excellent flavor. As you increase the brewing time, the color will change to amber and then black.
 
 I have brewed this flavor for 12, 15, 18, and 24 hours. If you dislike bitter coffee, I would not recommend more than a 15 hour brewing time.
+
+[Back to Recipes](https://github.umn.edu/cdsmith/cold-brew-coffee/blob/master/recipes/README.md)
