@@ -11,3 +11,5 @@ Seasonal? Yes; Christmas
 This coffee has a strong white chocolate flavor, which is resistant to being masked by over-brewing. The peppermint flavor is **_very_** subtle and quickly masked when over-brewed. The recommended brewing time produces a brown coffee, which changes to black with increased brewing times.
 
 I have brewed this flavor for 12, 15, and 18 hours. I disliked the flavor of the 18 hour brew so much that I gave it to my wife to drink the same day. At 12 hours, you're still left with little more than a hint of peppermint, though the white chocolate flavor is enjoyable. In the near future, I will be brewing this as an infusion using peppermint leaves.
+
+[Back to Recipes](https://github.umn.edu/cdsmith/cold-brew-coffee/blob/master/recipes/README.md)
