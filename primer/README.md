@@ -9,5 +9,6 @@ This section's target audience are cold brewing novices and anyone who feels the
     * [Carafes](https://github.umn.edu/cdsmith/cold-brew-coffee/blob/master/primer/BASICS.md#carafes)
     * [Filters](https://github.umn.edu/cdsmith/cold-brew-coffee/blob/master/primer/BASICS.md#filters)
     * [Ratio Water:Coffee](https://github.umn.edu/cdsmith/cold-brew-coffee/blob/master/primer/BASICS.md#ratio-of-water-to-coffee)
+    * [Brewing Time](https://github.umn.edu/cdsmith/cold-brew-coffee/blob/master/primer/BASICS.md#brewing-time)
   * [Beyond the Basics: Infusions](https://github.umn.edu/cdsmith/cold-brew-coffee/blob/master/primer/INFUSIONS.md)
   * [Recipes: Time to Brew!](https://github.umn.edu/cdsmith/cold-brew-coffee/blob/master/recipes/README.md)
