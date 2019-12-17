@@ -7,6 +7,7 @@ Let's discuss what you need to know to get started!
   * [Carafes](#carafes)
   * [Filters](#filters)
   * [Ratio Water:Coffee](#ratio-of-water-to-coffee)
+  * [Brewing Time](#brewing-time)
 
 ## Coffee
 The most important things you need to know about coffee are grinds and roasts. I'm no expert; I've learned just enough about these topics to be dangerous. You'll have to lean on the Internet for additional learning on these topics, but I'll share what I've learned.
@@ -57,5 +58,16 @@ When it comes to shaking the jar after adding the coffee grounds, some people do
 During my research, the most frequent ratio I found was four cups water to one cup coffee grounds. However, I don't think that many literal measuring cups' worth is actually meant because, when I tried that ratio, the coffee I brewed was so strong that if I drank more than 0.25c (2oz) of it per day, then I would spend most of the night awake. That said, in the recipes I'm sharing, I do actually measure everything out with a measuring cup.
 
 I've had to ignore the information I found online and find a ratio that works for me. My recipes are a good starting point, and you may need to tweak them to suit yourself. Finally, obviously, if you change the ratio, you make the coffee stronger or weaker.
+
+[Back to Top](#the-basics)
+
+## Brewing Time
+When I was first learning about cold brewing, I found figures that ranged anywhere from six hours all the way up to 48 hours. I have found that 12 hours seems to be a good starting point for most flavors, and then you can adjust it from there according to what you want in a coffee. Temperature affects the brewing time, with higher temperatures shortening it and lower temperatures extending it. I have also found the brewing time will vary according to the flavor of the coffee you're brewing and, of course, to suit your tastes.
+
+I generally brew at room temperature, which is about 65 degrees in winter in my house. However, if I won't be able to be home to stop the brewing process at the designated time, I will put the jar in the refrigerator. Putting it in the refrigerator roughly triples the amount of time required to brew. This means that if I want to brew for 12 hours, I can put the jar in the refrigerator for 24 hours - which is equivalent to eight hours on the counter - and then remove it and brew the final four hours on the counter.
+
+There is also a point where the acidity/bitterness of the brewed coffee starts to mask the flavor of the coffee. This varies from flavor to flavor, and it can happen quite quickly or relatively slowly. My experience has been that stronger or bolder flavors are more slowly masked by bitterness and, indeed, in some cases are actually enhanced by a little acidity. Conversely, more subtle flavors are quickly masked by acidity to the point where the only "flavor" left is bitter coffee.
+
+Unfortunately, finding the brewing time and ratio of water to coffee that you like best can mean brewing multiple batches and being patient.
 
 [Back to Primer](https://github.umn.edu/cdsmith/cold-brew-coffee/blob/master/primer/README.md)
