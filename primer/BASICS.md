@@ -39,7 +39,7 @@ As with the grinder, I wanted to start cheap, since I wasn't sure I'd even like 
 [Back to Top](#the-basics)
 
 ## Filters
-If you purchase a cold brewing system, they'll come with their own filtration system. So you're only going to have a choice of filters if you choose something like Mason jars for brewing. In spite of the fact that I think a stainless steel filter is **the** way to go because of the small size of the grounds they're able to retain and their ease of set up and clean up, we'll review a short list of other options:
+If you purchase a cold brewing system, they'll come with their own filtration system. So you're only going to have a choice of filters if you choose something like Mason jars for brewing. In spite of the fact that I think a [stainless steel filter](https://www.amazon.com/gp/product/B0721RVRYN/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1) is **the** way to go because of the small size of the grounds they're able to retain and their ease of set up and clean up, we'll review a short list of other options:
   * Paper filters
   * Cheesecloth and nut milk bags
 
