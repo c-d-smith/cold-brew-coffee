@@ -5,4 +5,4 @@ If you're already enjoying cold brewed coffee, you can learn about [infusions](h
 
 If you have a recipe or other information you want to share, I'd be very happy to hear from you! You can request to become a collaborator on this repository or you can simply email me at cdsmith@umn.edu to share a recipe or discuss any information presented here (or that you feel is missing).
 
-You can go to the [Project](https://github.umn.edu/cdsmith/cold-brew-coffee/projects/1) to see what is on my roadmap for recipes and improvements to this repository.
+You can go to the [Project](https://github.umn.edu/cdsmith/cold-brew-coffee/projects/1) to see what is on my roadmap for recipes and improvements to this repository. The order of the entries in the "To Do" column accurately reflects my plans.
