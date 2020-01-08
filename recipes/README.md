@@ -6,7 +6,6 @@ I use a measuring cup for all the measures provided. That way, there is no misun
   * Company: Bones Coffee
     * [Candyland](https://github.umn.edu/cdsmith/cold-brew-coffee/blob/master/recipes/bones/CANDYLAND.md)
     * [Chocolate Raspberry](https://github.umn.edu/cdsmith/cold-brew-coffee/blob/master/recipes/bones/CHOCOLATE_RASPBERRY.md)
-    * [Coconut Rum](https://github.umn.edu/cdsmith/cold-brew-coffee/blob/master/recipes/bones/COCONUT_RUM.md)
     * [Oh Fuuudge!](https://github.umn.edu/cdsmith/cold-brew-coffee/blob/master/recipes/bones/OH_FUDGE.md)
     * [Salted Caramel](https://github.umn.edu/cdsmith/cold-brew-coffee/blob/master/recipes/bones/SALTED_CARAMEL.md)
     * [White Chocolate Peppermint Bark](https://github.umn.edu/cdsmith/cold-brew-coffee/blob/master/recipes/bones/WHITE_CHOCOLATE_PEPPERMINT_BARK.md)
