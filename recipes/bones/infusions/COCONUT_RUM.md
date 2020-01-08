@@ -6,7 +6,7 @@ Seasonal? No
 ## Recipe
   * Coffee: 0.25c (2oz)
   * Water: 3.5c (28oz)
-  * Coconut flakes: 2 teaspoons (untoasted)
+  * Unsweetened coconut flakes: 2 teaspoons (untoasted)
   * Time: 16 hours
 
 This coffee has a strong flavor that develops slowly and requires a longer brewing time to extract. The suggested brewing time produces a deep amber or caramel colored coffee.
