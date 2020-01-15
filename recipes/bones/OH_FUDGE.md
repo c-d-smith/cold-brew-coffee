@@ -6,7 +6,7 @@ Seasonal? Yes; Christmas
 ## Recipe
   * Coffee: 0.25c (2oz)
   * Water: 3.5c (28oz)
-  * Time: 15 hours
+  * Time: 48 hours, refrigerated
 
 This coffee has a subtle flavor, and seems to have a narrow window between being under-brewed and over-brewed. The suggested brewing time produces a deep brown coffee with little bitterness and a good flavor. As you increase the brewing time, the color will quickly change to black.
 
