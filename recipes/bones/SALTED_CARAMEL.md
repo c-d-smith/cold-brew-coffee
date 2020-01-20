@@ -8,8 +8,6 @@ Seasonal? No
   * Water: 3.5c (28oz)
   * Time: 12 hours
 
-This coffee has a strong flavor, making it tolerant of over-brewing. The suggested brewing time produces a honey-colored coffee with little bitterness and an excellent flavor. As you increase the brewing time, the color will change to amber and then black.
-
-I have brewed this flavor for 12, 15, 18, and 24 hours. If you dislike bitter coffee, I would not recommend more than a 15 hour brewing time.
+I have brewed this flavor for 12, 15, 18, and 24 hours on the countertop. I liked the 12 hour brew the best because I felt I got the most flavor with the least bitterness. It's got a really strong flavor and is one of my favorite Bones flavors.
 
 [Back to Recipes](https://github.umn.edu/cdsmith/cold-brew-coffee/blob/master/recipes/README.md)
