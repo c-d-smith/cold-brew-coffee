@@ -7,7 +7,7 @@ Seasonal? No
   * Coffee: 0.25c (2oz)
   * Water: 3.5c (28oz)
   * Unsweetened coconut flakes: 1 tablespoon (untoasted)
-  * Time: 16 hours, unrefrigerated; 48 hours, refrigerated
+  * Time: 16 hours, unrefrigerated or 48 hours, refrigerated
 
 This coffee has a strong flavor that develops slowly and requires a longer brewing time to extract. I used a level tablespoon of coconut flakes without packing them or mashing them into the tablespoon. It may have been very slightly heaping, but only as much as necessary to be level at the edges of the tablespoon. My goal with this infusion was to have a coffee with a strong flavor and good balance between coconut and rum. I have brewed this at both 16 hours on the countertop and 48 hours in the refrigerator, and both brewing times turned out a good brew. It's really quite outstanding and is easily tied with Salted Caramel for my favorite flavor.
 
