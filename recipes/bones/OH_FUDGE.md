@@ -6,10 +6,8 @@ Seasonal? Yes; Christmas
 ## Recipe
   * Coffee: 0.25c (2oz)
   * Water: 3.5c (28oz)
-  * Time: 48 hours, refrigerated
+  * Time: 16 hours, unrefrigerated or 48 hours, refrigerated
 
-This coffee has a subtle flavor, and seems to have a narrow window between being under-brewed and over-brewed. The suggested brewing time produces a deep brown coffee with little bitterness and a good flavor. As you increase the brewing time, the color will quickly change to black.
-
-I have brewed this flavor for 12, 15, and 18 hours. I found a 12 hour brew to have too little flavor, while an 18 hour brew has too much bitterness and acidity.
+I really like this flavor. It has a nutty flavor that I initially confused as acidity/bitterness from the coffee. I've brewed this for 12, 15, 16, 18, and 24 hours on the countertop, as well as 48 hours in the refrigerator. So far, I like the 16 hour/48 hour brew times the best, but I'm planning to try this with a longer brewing time again.
 
 [Back to Recipes](https://github.umn.edu/cdsmith/cold-brew-coffee/blob/master/recipes/README.md)
