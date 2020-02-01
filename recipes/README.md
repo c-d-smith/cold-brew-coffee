@@ -15,6 +15,7 @@ I use a measuring cup for all the measures provided. That way, there is no misun
   * Company: Bones Coffee
     * [Chocolate Raspberry](https://github.umn.edu/cdsmith/cold-brew-coffee/blob/master/recipes/bones/infusions/CHOCOLATE_RASPBERRY.md)
     * [Coconut Rum](https://github.umn.edu/cdsmith/cold-brew-coffee/blob/master/recipes/bones/infusions/COCONUT_RUM.md)
+    * [Peppermint Fudge](https://github.umn.edu/cdsmith/cold-brew-coffee/blob/master/recipes/bones/infusions/PEPPERMINT_FUDGE.md)
     * [White Chocolate Peppermint Bark](https://github.umn.edu/cdsmith/cold-brew-coffee/blob/master/recipes/bones/infusions/WHITE_CHOCOLATE_PEPPERMINT_BARK.md)
 
 ## Other Information
