@@ -10,6 +10,8 @@ I use a measuring cup for all the measures provided. That way, there is no misun
     * [Oh Fuuudge!](https://github.umn.edu/cdsmith/cold-brew-coffee/blob/master/recipes/bones/OH_FUDGE.md)
     * [Salted Caramel](https://github.umn.edu/cdsmith/cold-brew-coffee/blob/master/recipes/bones/SALTED_CARAMEL.md)
     * [White Chocolate Peppermint Bark](https://github.umn.edu/cdsmith/cold-brew-coffee/blob/master/recipes/bones/WHITE_CHOCOLATE_PEPPERMINT_BARK.md)
+  * Company: Whole Earth Grocery Co-op
+    * [Sunshine Blend](https://github.umn.edu/cdsmith/cold-brew-coffee/blob/master/recipes/whole-earth/SUNSHINE_BLEND.md)
   
 ### Infusions
   * Company: Bones Coffee
