@@ -21,4 +21,6 @@ I use a measuring cup for all the measures provided. That way, there is no misun
     * [White Chocolate Peppermint Bark](https://github.umn.edu/cdsmith/cold-brew-coffee/blob/master/recipes/bones/infusions/WHITE_CHOCOLATE_PEPPERMINT_BARK.md)
 
 ## Other Information
+The Whole Earth Grocery Co-op is located in River Falls, Wisconsin. They specialize in organic and fair trade products. They roast their coffee on-site.
+
 Please don't forget that the recipes are a starting point. Don't be afraid to change things and experiment. If there's a topic you want to review or learn more about, you can [review the primer](https://github.umn.edu/cdsmith/cold-brew-coffee/blob/master/primer/README.md). You can also go back to the [main page](https://github.umn.edu/cdsmith/cold-brew-coffee/blob/master/README.md), if you like.
