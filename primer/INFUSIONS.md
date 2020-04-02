@@ -6,7 +6,6 @@ I have only recently started experimenting with infusions, and I am very excited
 Unfortunately, all of this means that if a recipe for a flavor you want doesn't exist here, you'll need to do the experimentation necessary to create it. If you do, I would be very happy to include it here!
 
 ## Recipes
-Here is the [comprehensive list of recipes](https://github.umn.edu/cdsmith/cold-brew-coffee/tree/master/recipes). Here are the infusion recipes:
-  * [Chocolate Raspberry](https://github.umn.edu/cdsmith/cold-brew-coffee/blob/master/recipes/bones/infusions/CHOCOLATE_RASPBERRY.md)
+Here is the [comprehensive list of recipes](https://github.com/c-d-smith/cold-brew-coffee/tree/master/recipes). I am not going to break out a separate list of infusions here because it will be more work to maintain.
 
-[Back to Primer](https://github.umn.edu/cdsmith/cold-brew-coffee/blob/master/primer/README.md)
+[Back to Primer](https://github.com/c-d-smith/cold-brew-coffee/blob/master/primer/README.md)
