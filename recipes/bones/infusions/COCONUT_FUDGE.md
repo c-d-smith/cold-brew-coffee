@@ -11,4 +11,4 @@ Seasonal? Yes; Christmas
 
 This is brewed the same as the basic Oh Fuuudge! coffee. The flavor with the addition of the coconut flakes is pretty good, though it's not my favorite.
 
-[Back to Recipes](https://github.umn.edu/cdsmith/cold-brew-coffee/blob/master/recipes/README.md)
+[Back to Recipes](https://github.com/c-d-smith/cold-brew-coffee/blob/master/recipes/README.md)
