@@ -46,7 +46,7 @@ If you purchase a cold brewing system, they'll come with their own filtration sy
 
 While you can choose to filter the coffee after it's made using a paper filter, it seems to me that this method would likely end up making a bit of a mess. If you use paper filters, you obviously wouldn't be able to put them in the Mason jar to hold the grounds. This means you'll have to pour the coffee from one jar into another with the paper filter between.
 
-Cheesecloth and nut milk bags hold the grounds in the Mason jar while you're brewing. They're more porous than the 100 micron holes in the stainless steel filter I linked above, which means larger grounds will be able to escape into your coffee. While simple cheesecloth will be as easy to clean as the stainless steel filter (dump, rinse, done), I suspect nut milk bags would take more rinsing to get the coffee out. You'll also need to squeeze the cheesecloth or nut milk bag to get most of the liquid coffee out before dumping.
+Cheesecloth and nut milk bags hold the grounds in the Mason jar while you're brewing. They're more porous than the 100 micron holes in the stainless steel filter I linked above, which means larger grounds will be able to escape into your coffee. While simple cheesecloth will be as easy to clean as the stainless steel filter (drain, dump, rinse, done), I suspect nut milk bags would take more rinsing to get the coffee out. You'll also need to squeeze the cheesecloth or nut milk bag to get most of the liquid coffee out before dumping.
 
 Even if you choose a stainless steel filter, if you're using a grinder that is not a burr grinder (and maybe even if you are), then you'll get some sediment at the bottom of your jar. Your first reaction to that is probably "Yuck!", followed by "What causes that?". The sediment is caused mainly by the very fine particles that result from the grinding process. From what I've read online, you can create more by shaking the jar, which causes the grounds to break up some. I don't go out of my way to create more sediment, even though I have found the sediment is basically pure flavor. I've also found that, outside of the enhanced flavor, you don't notice the sediment while you're drinking the coffee - even if you make sure to shake or swirl your coffee to mix up the sediment (and I do this). If you don't want the sediment, simply don't swirl the coffee in the jar when you're pouring it. The sediment settles to the bottom and will stay there unless you forcibly stir it up.
 
@@ -62,7 +62,7 @@ I've had to ignore the information I found online and find a ratio that works fo
 [Back to Top](#the-basics)
 
 ## Brewing Time
-When I was first learning about cold brewing, I found figures that ranged anywhere from six hours all the way up to 48 hours. I have found that 12 hours seems to be a good starting point for most flavors, and then you can adjust it from there according to what you want in a coffee. Temperature affects the brewing time, with higher temperatures shortening it and lower temperatures extending it. I have also found the brewing time will vary according to the flavor of the coffee you're brewing and, of course, to suit your tastes.
+When I was first learning about cold brewing, I found figures that ranged anywhere from six hours all the way up to 48 hours. I have found that 16 hours seems to be a good starting point for most flavors, and then you can adjust it from there according to what you want in a coffee. Temperature affects the brewing time, with higher temperatures shortening it and lower temperatures extending it. I have also found the brewing time will vary according to the flavor of the coffee you're brewing and, of course, to suit your tastes.
 
 I generally brew at room temperature, which is about 65 degrees in winter in my house. However, if I won't be able to be home to stop the brewing process at the designated time, I will put the jar in the refrigerator. Putting it in the refrigerator roughly triples the amount of time required to brew. This means that if I want to brew for 12 hours, I can put the jar in the refrigerator for 24 hours - which is equivalent to eight hours on the counter - and then remove it and brew the final four hours on the counter.
 
@@ -70,4 +70,4 @@ There is also a point where the acidity/bitterness of the brewed coffee starts t
 
 Unfortunately, finding the brewing time and ratio of water to coffee that you like best can mean brewing multiple batches and being patient.
 
-[Back to Primer](https://github.umn.edu/cdsmith/cold-brew-coffee/blob/master/primer/README.md)
+[Back to Primer](https://github.com/c-d-smith/cold-brew-coffee/blob/master/primer/README.md)
