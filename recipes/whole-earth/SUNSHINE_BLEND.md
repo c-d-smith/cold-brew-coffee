@@ -8,6 +8,6 @@ Seasonal? No
   * Water: 3.5c (28oz)
   * Time: 16 hours
 
-This coffee has a bit of a honey flavor to it. You can taste a "coffee" flavor, as well, but without the acidity that makes this flavor unpleasant. I really enjoyed this and will continue to purchase it.
+This coffee has a bit of a honey flavor to it. You can taste a "coffee" flavor, as well, but without the acidity that makes that unpleasant. I really enjoyed this and will continue to purchase it.
 
-[Back to Recipes](https://github.umn.edu/cdsmith/cold-brew-coffee/blob/master/recipes/README.md)
+[Back to Recipes](https://github.com/c-d-smith/cold-brew-coffee/blob/master/recipes/README.md)
