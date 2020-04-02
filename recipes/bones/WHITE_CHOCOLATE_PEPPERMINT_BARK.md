@@ -8,6 +8,6 @@ Seasonal? Yes; Christmas
   * Water: 3.5c (28oz)
   * Time: 16 hours
 
-I have brewed this for 12, 15, 16, 18, and 24 hours. The 16 hour brewing time has turned out the best. The peppermint flavor is somewhat subtle at 16 hours (and almost non-existent at 12 hours), but it is detectable. At 18 hours there is some bitterness, and at 24 hours the flavor is markedly harmed by the bitterness and acidity.
+I have brewed this for 12, 15, 16, 18, and 24 hours. The 16 hour brewing time has turned out the best. The peppermint flavor is rather subtle, and I prefer this as a [dried peppermint leaf infusion](https://github.com/c-d-smith/cold-brew-coffee/blob/master/recipes/bones/infusions/WHITE_CHOCOLATE_PEPPERMINT_BARK.md).
 
-[Back to Recipes](https://github.umn.edu/cdsmith/cold-brew-coffee/blob/master/recipes/README.md)
+[Back to Recipes](https://github.com/c-d-smith/cold-brew-coffee/blob/master/recipes/README.md)
