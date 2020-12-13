@@ -11,4 +11,4 @@ Seasonal? No
 
 This is organic and fair trade coffee originating from Timor, roasted in Downsville, WI. It's very smooth and has an excellent white chocolate flavor, even though this is not artificially flavored coffee. I have also brewed this hot, and the results are very similar.
 
-[Back to Recipes](https://github.umn.edu/cdsmith/cold-brew-coffee/blob/master/recipes/README.md)
+[Back to Recipes](https://github.com/c-d-smith/cold-brew-coffee/blob/master/recipes/README.md)
