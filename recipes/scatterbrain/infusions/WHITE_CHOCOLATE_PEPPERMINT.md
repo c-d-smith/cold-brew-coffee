@@ -12,4 +12,4 @@ Seasonal? No
 
 This is organic and fair trade coffee originating from Timor, roasted in Downsville, WI. It's very smooth and has an excellent balance between white chocolate and peppermint. The balance between the two is much better than the Bones Coffee White Chocolate Peppermint (infusion or no), and this coffee is not artificially flavored like Bones.
 
-[Back to Recipes](https://github.umn.edu/cdsmith/cold-brew-coffee/blob/master/recipes/README.md)
+[Back to Recipes](https://github.com/c-d-smith/cold-brew-coffee/blob/master/recipes/README.md)
